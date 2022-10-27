@@ -1,0 +1,6 @@
+.npm
+.env
+node_modules/
+build/
+temp/
+.vscode/
